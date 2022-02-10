@@ -5,7 +5,7 @@ public class Array{
     
     Scanner scan = new Scanner(System.in);
     int [] numeros = new int [6];
-    int i = 0;
+    int i = 0;//esto es un contador
     int k = 0;
 
     while(i < 6){
